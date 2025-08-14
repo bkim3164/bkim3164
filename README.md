@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Brian Kim 👋
 
-<!--
-**bkim3164/bkim3164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Computer Science student at UC Irvine and a Software Engineering Intern at AVEVA, where I develop scalable testing infrastructure to improve software reliability. I’m passionate about building clean, maintainable systems, solving challenging technical problems, and learning new technologies that make development more efficient. Outside of work, I’m an avid 2100-rated chess player who enjoys applying strategic thinking both on and off the board.
 
-Here are some ideas to get you started:
+- 🎓 3rd-year CS student @ UC Irvine  
+- 💻 SWE Intern @ AVEVA  
+- ♟️ 2100-rated chess player  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/brianbnkim/)  
+- [GitHub](https://github.com/bkim3164)  
+- [Email](mailto:bkim3164@gmail.com)  
+
+---
+
+⭐ *Feel free to explore my repositories or reach out for collaborations and opportunities!*
